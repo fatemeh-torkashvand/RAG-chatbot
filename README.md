@@ -1,4 +1,3 @@
-markdown
 # Floriashop Chatbot
 
 A retrieval-augmented chatbot for Floriashop's customer support. It answers questions about orders,
